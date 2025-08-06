@@ -1,0 +1,10 @@
+.card-black-bg {
+    background-color: #000000;
+    color: #ffffff; /* Set text color to white for better visibility */
+}
+.card-smaller {
+    max-width: 300px; /* Set maximum width */
+    margin: 0 auto; /* Center the card horizontally */
+}
+/* movies.css */
+

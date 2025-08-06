@@ -1,0 +1,19 @@
+/* navbar.css */
+.navbar-custom {
+    background-color: #000000; /* Set background color to black */
+    color: #ffffff; /* Set text color to white */
+    padding: 10px 20px; /* Add padding to the navbar */
+    font-size: 18px; /* Set font size */
+}
+
+.navbar-custom .navbar-brand {
+    color: #ffffff; /* Set text color of navbar brand to white */
+}
+
+.navbar-custom .nav-link {
+    color: #ffffff; /* Set text color of nav links to white */
+}
+
+.navbar-custom .nav-link:hover {
+    color: red; /* Set text color of nav links on hover to white */
+}
